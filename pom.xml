@@ -164,7 +164,7 @@
 		    <artifactId>compress</artifactId>
 		    <version>1.0</version>
 		    <scope>system</scope>
-		    <systemPath>/library/Compress.jar</systemPath>
+		    <systemPath>${basedir}/library/Compress.jar</systemPath>
 		</dependency>
 
 		<dependency>
