@@ -164,7 +164,7 @@
 		    <artifactId>compress</artifactId>
 		    <version>1.0</version>
 		    <scope>system</scope>
-		    <systemPath>D:/JavaPro/lib/Compress.jar</systemPath>
+		    <systemPath>/liberary/Compress.jar</systemPath>
 		</dependency>
 
 		<dependency>
